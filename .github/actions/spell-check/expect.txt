@@ -1437,6 +1437,7 @@ nitroin
 NLD
 nlog
 NLSTEXT
+NMake
 NMLVEMPTYMARKUP
 NOACTIVATE
 noactive
